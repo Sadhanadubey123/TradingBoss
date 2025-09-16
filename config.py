@@ -26,8 +26,8 @@ STOCKS = {
 }
 
 # Telegram bot configuration
-BOT_TOKEN = "your_telegram_bot_token"
-CHAT_ID = "your_chat_id"
+BOT_TOKEN = "8480366455:AAGxKV3G6YL8bFgGDoi_Ld1GRdKVZmIf40o"
+CHAT_ID = "7521661919"
 
 # CSV log file path
 LOG_FILE = "stock_updates.csv"
